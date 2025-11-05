@@ -179,24 +179,3 @@ footer {
   }
 }
 
-#tips {
-  background-color: #f0f4ff;
-  padding: 20px;
-  border-radius: 10px;
-}
-
-#tips h2 {
-  color: #2b4eff;
-  margin-bottom: 20px;
-}
-
-#tips li {
-  margin-bottom: 20px; 
-  line-height: 1.6;     
-}
-
-#tips span {
-  display: block;
-  margin-top: 5px;      
-  color: #555;
-}
