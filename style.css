@@ -6,11 +6,10 @@
 }
 
 body {
-  background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fsunset-wallpaper&psig=AOvVaw3KYq9facLq9JLJge8p9AUq&ust=1763169389558000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjRtv678JADFQAAAAAdAAAAABAM') no-repeat center center fixed;
-  background-size: cover;
+  background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fsunset-wallpaper&psig=AOvVaw3KYq9facLq9JLJge8p9AUq&ust=1763169389558000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjRtv678JADFQAAAAAdAAAAABAM') no-repeat center center/cover;
   color: #333;
   line-height: 1.6;
-}
+}        
 
 header {
   background-color: #4a90e2;
@@ -179,6 +178,7 @@ footer {
     font-size: 28px;
   }
 }
+
 
 
 
