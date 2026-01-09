@@ -10,7 +10,14 @@ body {
   color: #333;
   line-height: 1.6;
 }        
-
+header {
+  background-image: url("https://raw.githubusercontent.com/otivasi-pisin/inspiremotivate/refs/heads/main/sunset.avif");
+  background-size: cover;
+  background-position: center;
+  padding: 40px;
+  color: white;
+  text-align: center;
+}
 header {
   background-color: #4a90e2;
   padding: 20px;
@@ -178,6 +185,7 @@ footer {
     font-size: 28px;
   }
 }
+
 
 
 
